@@ -2,21 +2,21 @@
 
 --- 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&vCenter=true&repeat=false&width=435&height=33&lines=About+me)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&vCenter=true&repeat=false&width=435&height=33&lines=About+me)](https://git.io/typing-svg)<br>
 Hey, I'm Luca. I'm a UI/UX designer and Frontend-Developer from Germany. 
 
 My UI/UX design experience spans 3 years, while my front-end development experience is 2 years. 
 I like trying out different design styles and layout approaches to build user-friendly interfaces.
+<br><br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&vCenter=true&repeat=false&width=435&height=33&lines=Technologies)](https://git.io/typing-svg)
-### Frontend-Development
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&vCenter=true&repeat=false&width=435&height=33&lines=Technologies)](https://git.io/typing-svg)<br>
+**Frontend-Development:**
 - HTML, CSS, Javascript
 - React
 - NextJS
 - PHP
 
-### Design
+**Design:**
 - Figma
 - Adobe Illustrator
 - Adobe Photoshop
