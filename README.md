@@ -3,7 +3,6 @@
 --- 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&repeat=false&width=435&lines=About+me)](https://git.io/typing-svg)
-
 Hey, I'm Luca. I'm a UI/UX designer and Frontend-Developer from Germany. 
 
 My UI/UX design experience spans 3 years, while my front-end development experience is 2 years. 
