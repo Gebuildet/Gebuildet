@@ -12,9 +12,9 @@ I like trying out different design styles and layout approaches to build user-fr
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=DM+Sans&weight=600&size=32&pause=1000&color=39936F&vCenter=true&repeat=false&width=435&height=33&lines=Technologies)](https://git.io/typing-svg)<br>
 **Frontend-Development:**
 - HTML, CSS, Javascript
-- React
-- NextJS
+- React, NextJS
 - PHP
+- Tailwind
 
 **Design:**
 - Figma
