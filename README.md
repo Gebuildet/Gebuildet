@@ -1,4 +1,4 @@
-![GitHub Profile Card](https://fancy-readme-stats.vercel.app/api?username=Gebuildet&show_icons=true&theme=forest_winter&email=luca@nextfight.net&description=UI/UX%20Designer%20and%20Frontend-Developer&include_all_commits=true)
+![GitHub Profile Card](https://fancy-readme-stats.vercel.app/api?username=Gebuildet&show_icons=true&theme=forest_winter&footer=luca@nextfight.net&description=UI/UX%20Designer%20and%20Frontend-Developer&include_all_commits=true)
 
 --- 
 
